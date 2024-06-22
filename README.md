@@ -3,11 +3,11 @@ Bem-vindo ao projeto Geladamente! Aqui, transformamos a sua sede em um clique, o
 
 ## Funcionalidades do Sistema 🚀
 # Navegando pela Loja 🛍️
-Exposição de Produtos: Uma grade cheia de opções incríveis para matar a sua sede.
+'*' Exposição de Produtos: Uma grade cheia de opções incríveis para matar a sua sede.
 
-Detalhes das Bebidas: Cada bebida vem com imagem, nome, preço e a opção de adicionar ao carrinho.
+'*'Detalhes das Bebidas: Cada bebida vem com imagem, nome, preço e a opção de adicionar ao carrinho.
 
-Estoque Atualizado: Todos os produtos são carregados a partir de um estoque prontinho para você.
+'*'Estoque Atualizado: Todos os produtos são carregados a partir de um estoque prontinho para você.
 # Colocando no Carrinho ➕
 Seleção de Itens: Adicione suas bebidas favoritas ao carrinho com um simples clique.
 
@@ -51,7 +51,7 @@ Interação do Usuário: Tratada por ActionListeners nos botões e outros compon
 Vídeo de Demonstração 🎥
 
 
-#Como Rodar o Projeto ▶️
+# Como Rodar o Projeto ▶️
 Pré-requisitos: Certifique-se de ter o JDK (Java Development Kit) instalado.
 
 Clonar o Repositório: Clone este repositório para a sua máquina.
