@@ -3,7 +3,7 @@ Bem-vindo ao projeto Geladamente! Aqui, transformamos a sua sede em um clique, o
 
 ## Funcionalidades do Sistema 🚀
 # Navegando pela Loja 🛍️
-'*' Exposição de Produtos: Uma grade cheia de opções incríveis para matar a sua sede.
+* Exposição de Produtos: Uma grade cheia de opções incríveis para matar a sua sede.
 
 '*'Detalhes das Bebidas: Cada bebida vem com imagem, nome, preço e a opção de adicionar ao carrinho.
 
