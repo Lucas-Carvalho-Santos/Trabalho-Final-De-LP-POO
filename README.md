@@ -1,5 +1,6 @@
 ## Geladamente: Distribuidora de Bebidas Online 🍹
 Bem-vindo ao projeto Geladamente! Aqui, transformamos a sua sede em um clique, oferecendo uma experiência de compra online para bebidas como você nunca viu.
+![GeladaMente_sem_fundo](https://github.com/Lucas-Carvalho-Santos/Trabalho-Final-De-LP-POO/assets/144248283/32a587d1-417e-4a22-b16e-35b377dc0537)
 
 ## Funcionalidades do Sistema 🚀
 # Navegando pela Loja 🛍️
@@ -51,6 +52,11 @@ Bem-vindo ao projeto Geladamente! Aqui, transformamos a sua sede em um clique, o
 
 * Vídeo de Demonstração 🎥
 
+
+https://github.com/Lucas-Carvalho-Santos/Trabalho-Final-De-LP-POO/assets/144248283/3f66903d-750a-4ad6-94fa-6c5fdf4b1495
+
+
+![WhatsApp Image 2024-06-23 at 18 28 29](https://github.com/Lucas-Carvalho-Santos/Trabalho-Final-De-LP-POO/assets/144248283/ee6a0b40-377e-4b68-a659-317132637c63)
 
 # Como Rodar o Projeto ▶️
 * Pré-requisitos: Certifique-se de ter o JDK (Java Development Kit) instalado.
